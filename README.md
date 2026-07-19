@@ -1,2 +1,13 @@
-# COS201_DDC
-Project Report of DDC for COS201 Course
+# COS201 - Digital Down Converter (DDC) Implementation
+
+## 👥 Team Members
+* **Nguyễn Viết Minh Quân**
+* **Nguyễn Trung Quân**
+* **Nguyễn Như Ngọc**
+
+**Instructor:** Thầy Phạm Thế Vinh
+
+---
+
+## 🛠️ Project Overview
+This repository contains the design, simulation, and High-Level Synthesis (HLS) implementation of a Quadrature Digital Down Converter (DDC) for the COS201 course.
