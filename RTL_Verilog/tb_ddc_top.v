@@ -161,5 +161,3 @@ module tb_ddc_top;
     end
 
 endmodule
-
-Code: Digital Quadrature Mixer
