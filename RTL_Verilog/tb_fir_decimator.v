@@ -164,5 +164,3 @@ module tb_fir_decimator;
     end
 
 endmodule
-
-Code module: Generic Parameterized FIR Decimator
