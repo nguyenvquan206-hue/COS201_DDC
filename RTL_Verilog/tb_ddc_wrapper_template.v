@@ -1,4 +1,3 @@
-Code: Verification Wrapper for DDC Implementation
 module ddc_top (
     input wire clk,
     input wire rst,
