@@ -281,5 +281,3 @@ module tb_ddc_top;
     end
 
 endmodule
-
-Code Final Gop lai tat ca cac module cho de thay
