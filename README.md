@@ -15,3 +15,4 @@ This repository contains the design, simulation, and High-Level Synthesis (HLS) 
 ## 📂 Repository Structure
 * `/matlab` - Golden floating-point & fixed-point simulation models
 * `/hls` - C/C++ source code, testbenches, and optimization directives for Vivado/Vitis HLS
+* `/RTL_Verilog` - Synthesizable Verilog RTL modules (NCO, Mixer, FIR Decimator) and simulation testbenches
